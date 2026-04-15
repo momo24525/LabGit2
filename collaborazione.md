@@ -1,1 +1,1 @@
-Riga 1: Testo originale
+Riga 1: Modificato da studente B 
